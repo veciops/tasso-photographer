@@ -1,0 +1,25 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+  Front-end Engineer: Juarez P. A. Filho
+  Contact: hey [at] caravanaweb.com.br
+  Twitter: @juarezpaf
+  From:Maceio, Alagoas, Brazil
+
+  Web designer: Carlyson Oliveira
+  Contact: carlyson [at] zeropixel.com.br 
+  Twitter: @carlyson
+  From:Maceio, Alagoas, Brazil
+
+# THANKS
+
+<name>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
+  Normalize.css, jQuery, Modernizr
+  Language: Portuguese
+  Doctype: HTML5
+  IDE: Sublime Text 2, Github, Photoshop
